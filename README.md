@@ -10,7 +10,7 @@ This application helps you **generate a hotspot portal** to be used in the [Evil
 
 
 ### Before you use
-You need GitBash and Powershell for this one. Sorry Linux or Mac users...
+Compatible with macOS
 
 ### How to use
 *!! You have the ability to have a **logo of your choice** on the portal you generate. **This logo has to be an SVG**. You can easily download any logo in PNG, JPG, ... format and **convert** it with a tool [like this one](https://image.online-convert.com/convert-to-svg). Bear in mind that you are **limited to 20 ko for the total final HTML to be able to be broadcasted as portal by your Flipper**. I particularly like the SVG converter I linked because it outputs very small SVG files, although only black and white. I then **change its color manually in the code and adapt its size to the portal's needs**. I am aware that this is not ideal for multicolor logos but it is a **work in progress!***
